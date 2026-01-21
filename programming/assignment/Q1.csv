@@ -1,1 +1,12 @@
-0
+Job	Median Salary	Education	Training	Num Jobs	Job Outlook	Rank
+Data Scientist	112,590	Bachelors	None	245,900	34%	2
+Servey Researcher	63,380	Masters	None	8,800	-5%	9
+Pyschologist	94,310	Masters	Internship/Redisendcy	204,300	6%	5
+Sociolgist	101,690	Masters	None	3,400	4%	8
+Postsecondary Teacher	83,980	PH.D	None	1,415,600	7%	7
+High School Teacher	64,580	Bachelors	None	1,094,500	-2%	6
+Physician	239,200	Doctoral	Internship/Redisendcy	839,000	3%	1
+Physician's Assistant	133,260	Masters	None	162,700	20%	3
+Pharmacist	137,480	Doctoral	None	335,100	5%	4
+
+Ranked mainly by salary with lower level of education requirment increasing rank a little and job potential decreasing it.
